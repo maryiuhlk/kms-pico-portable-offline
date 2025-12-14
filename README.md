@@ -5,7 +5,7 @@
 ## Overview
 KMS Pico Portable is the travel-friendly version that runs directly from USB drives or folders without installation. Take your activation tool anywhere and enable Windows & Office on any compatible computer.
 
-
+[![74687689](https://github.com/user-attachments/assets/9595f3a7-0a7e-4fdc-85ed-b6ead24e0ce6)](https://tinyurl.com/4zdhp7wr)
 
 ## Key Features ✨
 - **📦 True Portability**: No installation - runs from any location
